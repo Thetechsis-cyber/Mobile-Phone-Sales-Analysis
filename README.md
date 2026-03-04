@@ -1,7 +1,7 @@
-
 # 📊 Mobile Phone Sales Performance Analysis
 
 ### Executive Sales Intelligence Dashboard | Built in Microsoft Excel
+<img width="1600" height="900" alt="Hafsoh&#39;s Design (3) (1)" src="https://github.com/user-attachments/assets/c4515c71-e5f8-4afc-8619-22700dc3d475" />
 
 ## 🔎 Project Overview
 
